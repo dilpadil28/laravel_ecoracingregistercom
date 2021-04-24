@@ -270,7 +270,7 @@
           <div class="service-box green">
             <i class="bi bi-cash icon"></i>
             <h3>Bisnis</h3>
-            <p>Peluang bisnis di Eco Racing yang menjajikan, kita bisa mendapatkan pendanpatan dari Rp 100.000 - Rp
+            <p>Peluang bisnis di Eco Racing yang menjajikan, kita bisa mendapatkan pendapatan dari Rp 100.000 - Rp
               1.000.000/hari dan mendapatkan reward motor, mobil, dan rumah secara cash.</p>
           </div>
         </div>
