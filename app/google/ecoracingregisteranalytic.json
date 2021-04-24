@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eco-racing-analytic",
+  "private_key_id": "5a8931ff55e3f3d2eae12c290b0a908b3e5916f5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCvAJv+mWJptrqz\nUoyPtOUEdK2nETeoUGisORcRJRSi/bUGTulRFXMtNUhxHjgnQBSS9teSj+gl+iE0\nzIDwHIg/Te+Kd5G2UsyHHcKfN9mjxoiRwzmfNZ7XIpKzBhyC42K4C/7vYV0W8Le/\ntiUk/51LN44Q/pKjtjx9qolOXIJWm7lX1offtqciC/5O4sCPRP55Rotqb2HRkmu9\nFwpIQN+ic9pmcuIv0w79DbuaRX5xHi5Hbl1AUHr5CTotfukstjIHeO9URXiTQQc4\n9TiAuy+9SqJzrJSc9XULFA5qxaYelLrFOq0WSFMfsivFXii6g4qRwBP5PXCHwpHb\nHFbXkcYDAgMBAAECggEASouDZ4HV4nsUb2N3/ZUMQwgimnpij39k/wu4kDSP5FgX\nHu9JQqFU9Qpv58N8HvgUa3/bVxKWzGqOb4u3VtCIlxKvOXfyaUw+1EVwjFsBidp9\nfT3AU1nHZhPTko/FYFnUyNpPR4/dU/LJCtBfZTG/QnWRPhr6wuLTRKJ6p5cPbC1l\n1l6FjniePvz2OoBGQzr+jPjpHCyn5I3hTkp0tOL0nSe4JtUcpHYyVpG5EJp3EPEE\nEhHE/o00o3z3K49dYZZEH1KMpDOHZTLDI4JrYVvj40SO9Qz0oDqMdP6AFo4jVlHt\nzLn2L8j11EJU5R7RPZoYWg/G9owK6Fb/e62ci02gRQKBgQD3PU4Jx/RXTuW0PsSH\nlmOknrOCPQXib9E8b6aRk7NLsgFjMd7SoHoRT4Ep+iHDMQT41yBp8XO/oq/NVfJC\n8AtYBCqm53n4Av6EYcG+MWyMlC2U9HQL4Av5UMZZ+M98njIllD+iq7n3e4O5Zmzi\nC8wZ/qYdyEc3k5H4QUwWpH05XQKBgQC1NAvE7/HqvHAJ52qEJ3CLtTqjj8PCYJ/K\n8mGjg2Pc1Qn2ucvMKbFbWoyMnZliNDe8enPqG35WJ/TQFOqFTE0dz9+FW9Lrhc8V\nKGz2Uzhqafc1tj4sFJwUm8DePOQ7E5sObwrLv9ebx8KmTC7RkOMsQVICfqR+Uq0I\nOVZlI00m3wKBgD8dPUCt9KgdEfJzW4QpVgJ+KOEEZu4pEUbWUbUz+T9Hj6cc4f7u\nzHqCyzxGCDxl1RkZAcNJyfyPsUU/vXptANhVJ/Y3fSFc0lBFDEpbH5S7du9hgAZQ\nCX55qkjphT4QvEhvkdca83xD4ZqAlScXT+EK6qkLqXJ8j3TKZnwZPYZZAoGACNE4\nhWO7nNWAiirVlwqoQlQWP2E+gFXdUK3MrH03PcasDnJqBUw+Ehjs3+bHUO0DjUtU\nGp8t3ZliI0HxS30z/3BfCwk10ToYoonuC2pvQ1ZWrilpCxIRqjsN/oJuBKXmlKQ4\nnUN/hVgKE7d/S7lGJKAlEnQBIxh4zP6lQpSeK3cCgYB9Tc89TywxnO3LenAMvKTY\nraPVojuuDLbQjfhoEeD9G50298Lv9yZjkUD47pkgwu444uNKx88QNu0We5qEX5qs\nAEQJm4YXcHbmi9GPkRoGjhtSXDK15E+X9hD5JQuZ4GjdCYjzLVLHo1OSeFkF7iFS\n6s1VqxdwD0hetvVIK3IU3w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ecoracing-register@eco-racing-analytic.iam.gserviceaccount.com",
+  "client_id": "117498531540777041749",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ecoracing-register%40eco-racing-analytic.iam.gserviceaccount.com"
+}
