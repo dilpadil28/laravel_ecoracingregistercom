@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/ecorac19/repositories/laravel_ecoracingregistercom
+    - export DEPLOYPATH=/home/ecorac19/public_html/
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp style.css $DEPLOYPATH
