@@ -79,7 +79,7 @@
 
         <div class="col-lg-3 col-md-6">
           <div class="count-box">
-            <i class="bi bi-emoji-smile"></i>
+            <i class="fas fa-motorcycle"></i>
             <div>
               <span data-purecounter-start="0" data-purecounter-end="{{ $frontend->reward_motcash }}"
                 data-purecounter-duration="1" class="purecounter"> Mitra</span>
@@ -90,7 +90,7 @@
 
         <div class="col-lg-3 col-md-6">
           <div class="count-box">
-            <i class="bi bi-journal-richtext" style="color: #ee6c20;"></i>
+            <i class="fas fa-car-side" style="color: #ee6c20;"></i>
             <div>
               <span data-purecounter-start="0" data-purecounter-end="{{ $frontend->reward_mobcash }}"
                 data-purecounter-duration="1" class="purecounter"></span>
@@ -101,7 +101,7 @@
 
         <div class="col-lg-3 col-md-6">
           <div class="count-box">
-            <i class="bi bi-headset" style="color: #15be56;"></i>
+            <i class="fas fa-truck-pickup" style="color: #15be56;"></i>
             <div>
               <span data-purecounter-start="0" data-purecounter-end="{{ $frontend->reward_bigmocash }}"
                 data-purecounter-duration="1" class="purecounter"></span>
@@ -112,7 +112,7 @@
 
         <div class="col-lg-3 col-md-6">
           <div class="count-box">
-            <i class="bi bi-people" style="color: #bb0852;"></i>
+            <i class="fas fa-home" style="color: #bb0852;"></i>
             <div>
               <span data-purecounter-start="0" data-purecounter-end="{{ $frontend->reward_rumahcash }}"
                 data-purecounter-duration="1" class="purecounter"></span>
