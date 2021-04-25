@@ -94,7 +94,7 @@
         <div class="row gy-4">
           <div class="col-lg-5 col-md-12 footer-info">
             <a href="#hero" class="logo scrollto d-flex align-items-center">
-              <img src="{{ url('public/public/image/logo.png')  }}" alt="Eco Racing">
+              <img src="{{ url('storage/public/public/image/logo.png')  }}" alt="Eco Racing">
               <span>Eco Racing Regiseter</span>
             </a>
             <p class="mt-4">Ini adalah sebuah website untuk mendaftar Eco Racing Secara Resmi dari PT. BEST. Salam Go
